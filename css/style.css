@@ -1,0 +1,42 @@
+* {
+    font-family: 'Poppins';
+    text-align: center;
+    justify-content: center;
+}
+
+body {
+    background-image: url(https://images.wallpapersden.com/image/download/low-poly-mountains_a21tZm2UmZqaraWkpJRnamtlrWZpaWU.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+input {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px
+}
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 50px;
+}
+
+h3 {
+    margin-top: 240px;
+    color: black;
+    text-shadow: rgb(0 255 255) 1px -0.5px 0px, rgb(255 0 0) -1px 0.5px 0px;
+}
+a {
+   text-decoration: none;
+}
